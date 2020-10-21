@@ -12,5 +12,5 @@ when enter /secrets: wouch first check whether you have latest cookies(successfu
 3. Hashing password
 4. Salting and hashing
 5. Cookies and sessions
-6. Oauth2.0 (Google account)
+6. OAuth2.0 (Google account)
 
